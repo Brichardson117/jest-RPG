@@ -1,0 +1,22 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "Jest-another-RPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brichardson117/jest-RPG.git"
+  },
+  "author": "Brittney Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brichardson117/jest-RPG/issues"
+  },
+  "homepage": "https://github.com/Brichardson117/jest-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}
